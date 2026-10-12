@@ -1,0 +1,18 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/mamannyc/integrations
+- https://zapier.com/apps/maman/integrations
+- https://n8n.io/integrations/mamannyc/
+- https://composio.dev/toolkits/mamannyc
+- https://monid.ai/tools/mamannyc
+checked:
+- https://composio.dev/toolkits/mamannyc
+- https://monid.ai/tools/mamannyc
+- https://n8n.io/integrations/mamannyc/
+- https://zapier.com/apps/maman/integrations
+- https://zapier.com/apps/mamannyc/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
